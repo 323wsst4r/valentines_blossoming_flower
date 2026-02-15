@@ -102,7 +102,7 @@ document.addEventListener("DOMContentLoaded", function () {
         const wedate = document.getElementById("wedate");
         const btns = document.getElementById("btns");
         btns.style.display = "none";
-        wedate.innerText = "Congrats, you're my Valentine now 😌❤️. I love you cutie. ❤️";
+        wedate.innerText = "Congrats, you're my Valentine now 😌❤️. I love you… but don’t laugh at me, okay? 😂. ❤️";
 
         // Open index1.html in a new tab
         window.open("index1.html", "_blank");
